@@ -1,6 +1,6 @@
 # Cognifyz Internship Tasks (June–July 2025)
 
-This repository contains the Python projects I completed as part of my **Software Development Internship** at [Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-technologies/).
+This repository contains the Python projects I completed as part of my **Software Development Internship** at [Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-techonologies/posts/?feedView=all).
 
 All tasks were built using core Python (no frameworks) and executed via the terminal.
 
