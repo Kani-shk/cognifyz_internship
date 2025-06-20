@@ -38,5 +38,5 @@ All tasks were built using core Python (no frameworks) and executed via the term
 
 ---
 
-## 📂 Folder Structure
+
 
