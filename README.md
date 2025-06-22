@@ -1,42 +1,50 @@
-# Cognifyz Internship Tasks (June–July 2025)
+# Software Development Internship – Cognifyz Technologies (June–July 2025)
 
-This repository contains the Python projects I completed as part of my **Software Development Internship** at [Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-techonologies/posts/?feedView=all).
-
-All tasks were built using core Python (no frameworks) and executed via the terminal.
-
----
-
-## 📋 Completed Tasks
-
-### ✅ Task 1 – Text-Based Game (Guessing Game)
-- A number guessing game using random number generation and input validation.
-
-### ✅ Task 2 – Pattern Generator
-- Printed star and number patterns using nested loops.
-
-### ✅ Task 3 – CRUD Terminal App
-- Built a CLI to-do list that supports Create, Read, Update, and Delete operations.
-
-### ✅ Task 4 – Temperature Converter
-- Converts temperatures between Celsius and Fahrenheit.
+This repository contains the completed tasks for the **Software Development Internship** at **Cognifyz Technologies**.  
+Each task showcases a different concept in Python programming — from basic input/output to logic building and data manipulation.
 
 ---
 
-## 🧠 Skills Demonstrated
-- Basic I/O handling
-- CLI app development
-- Conditional logic and loops
-- Functions and error handling in Python
+## 📋 Internship Details
+
+- 🏢 **Organization:** Cognifyz Technologies  
+- 🧑‍💻 **Role:** Software Development Intern  
+- 🗓️ **Duration:** 19th June 2025 – 19th July 2025  
+- 📍 **Mode:** Remote  
+- ✅ **Status:** All 6 Tasks Completed
 
 ---
 
-## 💼 Internship Info
-- **Role**: Software Development Intern
-- **Duration**: June–July 2025
-- **Mode**: Remote
-- **Organization**: Cognifyz Technologies
+## ✅ Tasks Completed
+
+| Task No. | Title                     | Description                                         |
+|----------|---------------------------|-----------------------------------------------------|
+| 1        | Guessing Game             | Number guessing game using random module            |
+| 2        | Pattern Generator         | Prints various star and number patterns             |
+| 3        | CRUD Terminal App         | A to-do list with add/view/update/delete functions  |
+| 4        | Temperature Converter     | Converts temperature between Celsius & Fahrenheit   |
+| 5        | BMI Calculator            | Calculates and categorizes BMI                      |
+| 6        | Leap Year Checker         | Checks if a given year is a leap year               |
 
 ---
+
+
+---
+
+## 🧪 How to Run
+
+Each file can be run using Python 3:
+
+```bash
+cd Task_X/
+python filename.py
+
+```
+
+
+
+
+
 
 
 
